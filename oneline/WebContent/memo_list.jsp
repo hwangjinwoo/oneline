@@ -35,5 +35,6 @@
 	con.close(); 
 	out.println("DB조회 성공");
 %>
+<input type="submit" value="작성" onclick="location.href='http://localhost:8080/memo/memo01.html'"></input><br>
 </body>
 </html>

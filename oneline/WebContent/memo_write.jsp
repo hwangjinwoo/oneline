@@ -30,5 +30,6 @@
 	con.close(); 
 	out.println("데이터 추가 성공");
 %>
+<script>location.href="memo_list.jsp"</script>
 </body>
 </html>
